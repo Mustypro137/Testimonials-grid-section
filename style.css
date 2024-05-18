@@ -159,8 +159,9 @@ body {
 .card-quote {
   font-size: 0.8rem;
   opacity: 70%;
-  line-height: 1.3;
+  line-height: 1.5;
 }
+
 
 .card-one {
   grid-area: one;
